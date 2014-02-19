@@ -5,5 +5,5 @@ get '/' do
 end
 
 get '/start' do
-  "START"
+  "NO"
 end
