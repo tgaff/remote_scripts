@@ -4,6 +4,7 @@ get '/' do
   "Hello, world"
 end
 
+
 get '/start' do
-  "START"
+  "NO"
 end
