@@ -6,5 +6,5 @@ end
 
 
 get '/start' do
-  "You shall go no farther"
+  "START"
 end
