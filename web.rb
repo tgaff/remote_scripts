@@ -6,5 +6,5 @@ end
 
 
 get '/start' do
-  "START"
+  "STop"
 end
