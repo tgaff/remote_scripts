@@ -6,5 +6,5 @@ end
 
 
 get '/start' do
-  "in the name of love"
+  "START"
 end
