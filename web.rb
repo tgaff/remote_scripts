@@ -6,5 +6,5 @@ end
 
 
 get '/start' do
-  "wait"
+  "START"
 end
